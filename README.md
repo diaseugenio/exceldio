@@ -71,3 +71,4 @@ Para simular seus investimentos:
     * `VF` (Valor Futuro): Essencial para calcular o montante final do investimento.
     * Outras funções como `JUROS`, `PGTO`, `TAXA`, e funções lógicas (`SE`, `E`, `OU`) e de busca (`PROCV`, `PROCH`) provavelmente foram utilizadas para os cálculos de rendimento líquido, IR e para integrar dados da "Planilha2".
 
+[Dio Invest.xlsx](https://github.com/user-attachments/files/20854529/Dio.Invest.xlsx)
